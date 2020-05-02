@@ -1,0 +1,74 @@
+[{"SlNo":"1",
+  "Name":"Potato",
+  "Quantity":"2",
+  "Unit":"Kg",
+  "Department":"Vegetables",
+  "Notes":"Small"},
+
+  {"SlNo":"2",
+    "Name":"Milk",
+    "Quantity":"1",
+    "Unit":"Litre",
+    "Department":"Dairy",
+    "Notes":"Blue Cover"},
+
+    {"SlNo":"3",
+        "Name":"Apple",
+        "Quantity":"2",
+        "Unit":"Kg",
+        "Department":"Fruits",
+        "Notes":"Kashmiri"},
+
+        {"SlNo":"4",
+            "Name":"Brown Rice",
+            "Quantity":"10",
+            "Unit":"Kg",
+            "Department":"Grains",
+            "Notes":"Matta"},
+
+            {"SlNo":"5",
+                "Name":"Sardins",
+                "Quantity":"3",
+                "Unit":"Kg",
+                "Department":"Canned Goods",
+                "Notes":""},
+
+                {"SlNo":"6",
+                    "Name":"Chips",
+                    "Quantity":"1",
+                    "Unit":"Kg",
+                    "Department":"Snacks",
+                    "Notes":"Banana"},
+
+                    {"SlNo":"7",
+                        "Name":"Mutton",
+                        "Quantity":"2",
+                        "Unit":"Kg",
+                        "Department":"Meat",
+                        "Notes":"Sliced"},
+
+                        {"SlNo":"8",
+                            "Name":"Prawn",
+                            "Quantity":"1",
+                            "Unit":"Kg",
+                            "Department":"Frozen",
+                            "Notes":"Indian"},
+
+                            {"SlNo":"9",
+                                "Name":"Soap",
+                                "Quantity":"3",
+                                "Unit":"Nos",
+                                "Department":"Households",
+                                "Notes":"Life Buoy"},
+
+                                {"SlNo":"10",
+                                    "Name":"Oil",
+                                    "Quantity":"2 ",
+                                    "Unit":"Litre",
+                                    "Department":"Others",
+                                    "Notes":"Coconut"}
+
+]
+
+
+
